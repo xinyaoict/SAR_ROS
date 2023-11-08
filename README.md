@@ -188,3 +188,6 @@ rosbag record -a
 ```
 
 with the option -a,all published topics are saved in a bag file
+
+#### 7.2 Analyze rosgab file
+Here I use bagpy to load the saved bag file in Python and plot the data of velocity and IMU orientation, as shown in `bagpy_example.ipynb`
