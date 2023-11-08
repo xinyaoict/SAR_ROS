@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/interbotix_xsarm_joy/share/interbotix_xsarm_joy/cmake/interbotix_xsarm_joyConfig-version.cmake

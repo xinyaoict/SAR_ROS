@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_cpp[0m
+[  0%] Built target robotnik_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target ur_pad[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ur_pad.dir/src/ur_pad.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/ur_pad/lib/ur_pad/ur_pad[0m
+[100%] Built target ur_pad

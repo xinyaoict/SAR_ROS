@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/gpd_ros/share/roseus/ros/gpd_ros/msg/CloudIndexed.l

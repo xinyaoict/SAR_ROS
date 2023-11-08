@@ -1,0 +1,4 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/ur_pad/cmake/ur_padConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/ur_pad/cmake/ur_padConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/ur_pad/ur_pad
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/ur_pad.pc

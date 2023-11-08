@@ -1,0 +1,2 @@
+set(robotnik_elevator_interface_msgs_MESSAGE_FILES "/home/xinyao/SAR_ROS/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_interface_msgs/msg/ElevatorState.msg")
+set(robotnik_elevator_interface_msgs_SERVICE_FILES "/home/xinyao/SAR_ROS/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_interface_msgs/srv/SetElevatorControl.srv;/home/xinyao/SAR_ROS/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_interface_msgs/srv/GoToFloor.srv;/home/xinyao/SAR_ROS/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_interface_msgs/srv/SetDoorState.srv")

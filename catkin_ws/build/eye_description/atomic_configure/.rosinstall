@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xinyao/SAR_ROS/catkin_ws/devel/.private/eye_description/setup.sh

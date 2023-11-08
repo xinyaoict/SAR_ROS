@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/robotnik_force_based_move/share/robotnik_force_based_move/cmake/robotnik_force_based_moveConfig-version.cmake

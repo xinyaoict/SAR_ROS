@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/gazebo_grasp_plugin/lib/pkgconfig/gazebo_grasp_plugin.pc

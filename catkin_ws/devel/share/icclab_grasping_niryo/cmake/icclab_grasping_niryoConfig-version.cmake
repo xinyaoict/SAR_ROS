@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_grasping_niryo/share/icclab_grasping_niryo/cmake/icclab_grasping_niryoConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/interbotix_ux_ros_control.pc
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/interbotix_ux_ros_control/ux_hardware_interface

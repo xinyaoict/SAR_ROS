@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/robotnik_pad_plugins/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig.cmake

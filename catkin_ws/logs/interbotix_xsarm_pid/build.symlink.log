@@ -1,0 +1,4 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/interbotix_xsarm_pid/cmake/interbotix_xsarm_pidConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/interbotix_xsarm_pid/cmake/interbotix_xsarm_pidConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/interbotix_xsarm_pid.pc
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/interbotix_xsarm_pid/xsarm_pid

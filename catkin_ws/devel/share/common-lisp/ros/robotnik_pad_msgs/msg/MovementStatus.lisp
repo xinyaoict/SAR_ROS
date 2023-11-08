@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/robotnik_pad_msgs/share/common-lisp/ros/robotnik_pad_msgs/msg/MovementStatus.lisp

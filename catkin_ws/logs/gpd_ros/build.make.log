@@ -1,0 +1,130 @@
+[35m[1mScanning dependencies of target gpd_ros_grasp_plotter[0m
+[  2%] [32mBuilding CXX object CMakeFiles/gpd_ros_grasp_plotter.dir/src/gpd_ros/grasp_plotter.cpp.o[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  2%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  2%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _gpd_ros_generate_messages_check_deps_detect_grasps[0m
+[  2%] Built target _gpd_ros_generate_messages_check_deps_detect_grasps
+[35m[1mScanning dependencies of target _gpd_ros_generate_messages_check_deps_SamplesMsg[0m
+[  2%] Built target _gpd_ros_generate_messages_check_deps_SamplesMsg
+[35m[1mScanning dependencies of target _gpd_ros_generate_messages_check_deps_GraspConfigList[0m
+[  2%] Built target _gpd_ros_generate_messages_check_deps_GraspConfigList
+[35m[1mScanning dependencies of target _gpd_ros_generate_messages_check_deps_CloudSources[0m
+[  2%] Built target _gpd_ros_generate_messages_check_deps_CloudSources
+[35m[1mScanning dependencies of target _gpd_ros_generate_messages_check_deps_CloudSamples[0m
+[  2%] Built target _gpd_ros_generate_messages_check_deps_CloudSamples
+[35m[1mScanning dependencies of target _gpd_ros_generate_messages_check_deps_CloudIndexed[0m
+[35m[1mScanning dependencies of target _gpd_ros_generate_messages_check_deps_GraspConfig[0m
+[  2%] Built target _gpd_ros_generate_messages_check_deps_CloudIndexed
+[  2%] Built target _gpd_ros_generate_messages_check_deps_GraspConfig
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  2%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  2%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  2%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  2%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  2%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  2%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  2%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  2%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  2%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  2%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  2%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  2%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  2%] Built target roscpp_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_eus
+[  2%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  2%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  2%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  2%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  2%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  2%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  2%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  2%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_py[0m
+[  4%] [34m[1mGenerating Python from MSG gpd_ros/CloudIndexed[0m
+[  6%] [34m[1mGenerating Python from MSG gpd_ros/CloudSamples[0m
+[  8%] [32m[1mLinking CXX shared library /home/xinyao/SAR_ROS/catkin_ws/devel/.private/gpd_ros/lib/libgpd_ros_grasp_plotter.so[0m
+[ 10%] [34m[1mGenerating Python from MSG gpd_ros/CloudSources[0m
+[ 13%] [34m[1mGenerating Python from MSG gpd_ros/GraspConfig[0m
+[ 13%] Built target gpd_ros_grasp_plotter
+[ 15%] [34m[1mGenerating Python from MSG gpd_ros/GraspConfigList[0m
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_nodejs[0m
+[ 17%] [34m[1mGenerating Javascript code from gpd_ros/CloudIndexed.msg[0m
+[ 19%] [34m[1mGenerating Javascript code from gpd_ros/CloudSamples.msg[0m
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_lisp[0m
+[ 21%] [34m[1mGenerating Lisp code from gpd_ros/CloudIndexed.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from gpd_ros/CloudSources.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from gpd_ros/CloudSamples.msg[0m
+[ 28%] [34m[1mGenerating Python from MSG gpd_ros/SamplesMsg[0m
+[ 30%] [34m[1mGenerating Javascript code from gpd_ros/GraspConfig.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from gpd_ros/CloudSources.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from gpd_ros/GraspConfig.msg[0m
+[ 36%] [34m[1mGenerating Lisp code from gpd_ros/GraspConfigList.msg[0m
+[ 39%] [34m[1mGenerating Lisp code from gpd_ros/SamplesMsg.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from gpd_ros/GraspConfigList.msg[0m
+[ 43%] [34m[1mGenerating Javascript code from gpd_ros/SamplesMsg.msg[0m
+[ 45%] [34m[1mGenerating Lisp code from gpd_ros/detect_grasps.srv[0m
+[ 47%] [34m[1mGenerating Javascript code from gpd_ros/detect_grasps.srv[0m
+[ 50%] [34m[1mGenerating Python code from SRV gpd_ros/detect_grasps[0m
+[ 50%] Built target gpd_ros_generate_messages_lisp
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_eus[0m
+[ 52%] [34m[1mGenerating EusLisp code from gpd_ros/CloudIndexed.msg[0m
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_cpp[0m
+[ 54%] [34m[1mGenerating C++ code from gpd_ros/CloudIndexed.msg[0m
+[ 54%] Built target gpd_ros_generate_messages_nodejs
+[ 56%] [34m[1mGenerating EusLisp code from gpd_ros/CloudSamples.msg[0m
+[ 58%] [34m[1mGenerating C++ code from gpd_ros/CloudSamples.msg[0m
+[ 60%] [34m[1mGenerating EusLisp code from gpd_ros/CloudSources.msg[0m
+[ 63%] [34m[1mGenerating C++ code from gpd_ros/CloudSources.msg[0m
+[ 65%] [34m[1mGenerating Python msg __init__.py for gpd_ros[0m
+[ 67%] [34m[1mGenerating EusLisp code from gpd_ros/GraspConfig.msg[0m
+[ 69%] [34m[1mGenerating C++ code from gpd_ros/GraspConfig.msg[0m
+[ 71%] [34m[1mGenerating EusLisp code from gpd_ros/GraspConfigList.msg[0m
+[ 73%] [34m[1mGenerating EusLisp code from gpd_ros/SamplesMsg.msg[0m
+[ 76%] [34m[1mGenerating C++ code from gpd_ros/GraspConfigList.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from gpd_ros/detect_grasps.srv[0m
+[ 80%] [34m[1mGenerating Python srv __init__.py for gpd_ros[0m
+[ 82%] [34m[1mGenerating EusLisp manifest code for gpd_ros[0m
+[ 84%] [34m[1mGenerating C++ code from gpd_ros/SamplesMsg.msg[0m
+[ 86%] [34m[1mGenerating C++ code from gpd_ros/detect_grasps.srv[0m
+[ 86%] Built target gpd_ros_generate_messages_py
+[ 86%] Built target gpd_ros_generate_messages_cpp
+[ 86%] Built target gpd_ros_generate_messages_eus
+[35m[1mScanning dependencies of target gpd_ros_grasp_messages[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/gpd_ros_grasp_messages.dir/src/gpd_ros/grasp_messages.cpp.o[0m
+[35m[1mScanning dependencies of target gpd_ros_generate_messages[0m
+[ 89%] Built target gpd_ros_generate_messages
+[ 91%] [32m[1mLinking CXX shared library /home/xinyao/SAR_ROS/catkin_ws/devel/.private/gpd_ros/lib/libgpd_ros_grasp_messages.so[0m
+[ 91%] Built target gpd_ros_grasp_messages
+[35m[1mScanning dependencies of target gpd_ros_detect_grasps_server[0m
+[35m[1mScanning dependencies of target gpd_ros_detect_grasps[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/gpd_ros_detect_grasps.dir/src/gpd_ros/grasp_detection_node.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/gpd_ros_detect_grasps_server.dir/src/gpd_ros/grasp_detection_server.cpp.o[0m
+[ 97%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/gpd_ros/lib/gpd_ros/detect_grasps_server[0m
+[100%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/gpd_ros/lib/gpd_ros/detect_grasps[0m
+[100%] Built target gpd_ros_detect_grasps_server
+[100%] Built target gpd_ros_detect_grasps

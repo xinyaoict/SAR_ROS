@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target dock_arm_with_constraints[0m
+[35m[1mScanning dependencies of target move_arm_to_pose[0m
+[35m[1mScanning dependencies of target move_arm_to_pose_with_ik[0m
+[35m[1mScanning dependencies of target dock_arm_no_constraints[0m
+[35m[1mScanning dependencies of target move_arm_to_pose_lab02[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/dock_arm_no_constraints.dir/src/dock_arm_no_constraints.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/move_arm_to_pose_with_ik.dir/src/move_arm_to_pose_with_ik.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/move_arm_to_pose_lab02.dir/src/move_arm_to_pose_lab02.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/move_arm_to_pose.dir/src/move_arm_to_pose.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dock_arm_with_constraints.dir/src/dock_arm_with_constraints.cpp.o[0m
+[ 60%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_summit_xl/lib/icclab_summit_xl/move_arm_to_pose[0m
+[ 70%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_summit_xl/lib/icclab_summit_xl/dock_arm_with_constraints[0m
+[ 80%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_summit_xl/lib/icclab_summit_xl/move_arm_to_pose_lab02[0m
+[ 90%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_summit_xl/lib/icclab_summit_xl/dock_arm_no_constraints[0m
+[ 90%] Built target move_arm_to_pose
+[ 90%] Built target dock_arm_with_constraints
+[ 90%] Built target move_arm_to_pose_lab02
+[ 90%] Built target dock_arm_no_constraints
+[100%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_summit_xl/lib/icclab_summit_xl/move_arm_to_pose_with_ik[0m
+[100%] Built target move_arm_to_pose_with_ik

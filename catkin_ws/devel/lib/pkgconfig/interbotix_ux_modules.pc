@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/interbotix_ux_modules/lib/pkgconfig/interbotix_ux_modules.pc

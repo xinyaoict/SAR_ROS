@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/interbotix_xs_sdk/share/roseus/ros/interbotix_xs_sdk/manifest.l

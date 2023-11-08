@@ -1,0 +1,8 @@
+prefix=/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_description
+
+Name: summit_xls_ur5_description
+Description: Description of summit_xls_ur5_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro

@@ -1,0 +1,10 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/rcomponent/cmake/rcomponentConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/rcomponent/cmake/rcomponentConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/librcomponent.so
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/python3/dist-packages/rcomponent/__init__.py
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/rcomponent.pc
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/rcomponent/rcomponent_diagnostic
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/rcomponent/test_namespace
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/rcomponent/rcomponent_server
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/rcomponent/rcomponent_simple_async
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/rcomponent/rcomponent_simple

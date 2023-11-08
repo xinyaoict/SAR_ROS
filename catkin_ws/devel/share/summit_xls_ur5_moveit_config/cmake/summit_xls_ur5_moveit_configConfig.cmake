@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_moveit_config/share/summit_xls_ur5_moveit_config/cmake/summit_xls_ur5_moveit_configConfig.cmake

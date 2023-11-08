@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/interbotix_xsarm_joy/share/gennodejs/ros/interbotix_xsarm_joy/msg/ArmJoy.js

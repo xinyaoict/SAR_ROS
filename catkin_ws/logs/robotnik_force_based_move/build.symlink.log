@@ -1,0 +1,4 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/robotnik_force_based_move/cmake/robotnik_force_based_moveConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/robotnik_force_based_move/cmake/robotnik_force_based_moveConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/librobotnik_force_based_move.so
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/robotnik_force_based_move.pc

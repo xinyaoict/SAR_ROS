@@ -1,0 +1,8 @@
+prefix=/home/xinyao/SAR_ROS/catkin_ws/devel/.private/irlab_point_cloud_filtering
+
+Name: irlab_point_cloud_filtering
+Description: Description of irlab_point_cloud_filtering
+Version: 0.0.1
+Cflags: -I/home/xinyao/SAR_ROS/catkin_ws/devel/.private/irlab_point_cloud_filtering/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/robotnik_msgs/share/roseus/ros/robotnik_msgs/msg/Pose2DStamped.l

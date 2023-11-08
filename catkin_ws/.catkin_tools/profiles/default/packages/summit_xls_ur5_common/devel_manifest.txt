@@ -1,0 +1,2 @@
+summit_xls_ur5_common/summit_xls_ur5_common
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_common/cmake.lock /home/xinyao/SAR_ROS/catkin_ws/devel/./cmake.lock

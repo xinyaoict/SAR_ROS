@@ -1,0 +1,5 @@
+summit_xls_ur5_common/summit_xls_ur5_bringup
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_bringup/cmake.lock /home/xinyao/SAR_ROS/catkin_ws/devel/./cmake.lock
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_bringup/share/summit_xls_ur5_bringup/cmake/summit_xls_ur5_bringupConfig-version.cmake /home/xinyao/SAR_ROS/catkin_ws/devel/share/summit_xls_ur5_bringup/cmake/summit_xls_ur5_bringupConfig-version.cmake
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_bringup/share/summit_xls_ur5_bringup/cmake/summit_xls_ur5_bringupConfig.cmake /home/xinyao/SAR_ROS/catkin_ws/devel/share/summit_xls_ur5_bringup/cmake/summit_xls_ur5_bringupConfig.cmake
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_bringup/lib/pkgconfig/summit_xls_ur5_bringup.pc /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/summit_xls_ur5_bringup.pc

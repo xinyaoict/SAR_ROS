@@ -1,0 +1,8 @@
+prefix=/home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_grasping_niryo
+
+Name: icclab_grasping_niryo
+Description: Description of icclab_grasping_niryo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

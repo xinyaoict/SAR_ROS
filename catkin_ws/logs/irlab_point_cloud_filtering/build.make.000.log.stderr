@@ -1,0 +1,8 @@
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_filtering_server.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_filtering_server.cpp:347:28:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+  347 |   char* pointcloud_topic = [01;35m[K"/camera/depth/points"[m[K;
+      |                            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_clustering_server.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_clustering_server.cpp:186:28:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+  186 |   char* pointcloud_topic = [01;35m[K"/extract_plane_indices/output"[m[K;
+      |                            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K

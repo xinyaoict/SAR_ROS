@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/icclab_grasping_niryo/lib/pkgconfig/icclab_grasping_niryo.pc

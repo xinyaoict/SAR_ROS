@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/gazebo_state_plugins/lib/pkgconfig/gazebo_state_plugins.pc

@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xl_control/share/summit_xl_control/cmake/summit_xl_controlConfig-version.cmake

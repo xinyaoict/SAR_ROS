@@ -1,0 +1,8 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/icclab_summit_xl/cmake/icclab_summit_xlConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/icclab_summit_xl/cmake/icclab_summit_xlConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/icclab_summit_xl.pc
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/icclab_summit_xl/dock_arm_with_constraints
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/icclab_summit_xl/move_arm_to_pose
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/icclab_summit_xl/move_arm_to_pose_lab02
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/icclab_summit_xl/dock_arm_no_constraints
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/icclab_summit_xl/move_arm_to_pose_with_ik

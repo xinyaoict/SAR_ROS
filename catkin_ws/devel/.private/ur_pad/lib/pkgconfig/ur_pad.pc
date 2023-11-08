@@ -1,0 +1,8 @@
+prefix=/home/xinyao/SAR_ROS/catkin_ws/devel/.private/ur_pad
+
+Name: ur_pad
+Description: Description of ur_pad
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nav_msgs robotnik_msgs roscpp sensor_msgs geometry_msgs message_runtime

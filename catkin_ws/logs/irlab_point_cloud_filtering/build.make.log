@@ -1,0 +1,77 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_nodejs[0m
+[  0%] Built target gpd_ros_generate_messages_nodejs
+[35m[1mScanning dependencies of target _irlab_point_cloud_filtering_generate_messages_check_deps_PointCloudFiltering[0m
+[  0%] Built target _irlab_point_cloud_filtering_generate_messages_check_deps_PointCloudFiltering
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_cpp[0m
+[  0%] Built target gpd_ros_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_py[0m
+[  0%] Built target gpd_ros_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target gpd_ros_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target gpd_ros_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target gpd_ros_generate_messages_eus
+[35m[1mScanning dependencies of target point_cloud_clustering_server[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target point_cloud_filtering_server[0m
+[35m[1mScanning dependencies of target irlab_point_cloud_filtering_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target irlab_point_cloud_filtering_generate_messages_cpp[0m
+[  9%] [34m[1mGenerating Javascript code from irlab_point_cloud_filtering/PointCloudFiltering.srv[0m
+[ 18%] [34m[1mGenerating C++ code from irlab_point_cloud_filtering/PointCloudFiltering.srv[0m
+[ 18%] Built target irlab_point_cloud_filtering_generate_messages_nodejs
+[35m[1mScanning dependencies of target irlab_point_cloud_filtering_generate_messages_py[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/point_cloud_clustering_server.dir/src/point_cloud_clustering_server.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/point_cloud_filtering_server.dir/src/point_cloud_filtering_server.cpp.o[0m
+[35m[1mScanning dependencies of target irlab_point_cloud_filtering_generate_messages_lisp[0m
+[ 45%] [34m[1mGenerating Lisp code from irlab_point_cloud_filtering/PointCloudFiltering.srv[0m
+[ 54%] [34m[1mGenerating Python code from SRV irlab_point_cloud_filtering/PointCloudFiltering[0m
+[ 54%] Built target irlab_point_cloud_filtering_generate_messages_cpp
+[ 54%] Built target irlab_point_cloud_filtering_generate_messages_lisp
+[35m[1mScanning dependencies of target irlab_point_cloud_filtering_generate_messages_eus[0m
+[ 63%] [34m[1mGenerating EusLisp code from irlab_point_cloud_filtering/PointCloudFiltering.srv[0m
+[ 72%] [34m[1mGenerating EusLisp manifest code for irlab_point_cloud_filtering[0m
+[ 81%] [34m[1mGenerating Python srv __init__.py for irlab_point_cloud_filtering[0m
+[ 81%] Built target irlab_point_cloud_filtering_generate_messages_py
+[ 81%] Built target irlab_point_cloud_filtering_generate_messages_eus
+[35m[1mScanning dependencies of target irlab_point_cloud_filtering_generate_messages[0m
+[ 81%] Built target irlab_point_cloud_filtering_generate_messages
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_filtering_server.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_filtering_server.cpp:347:28:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+  347 |   char* pointcloud_topic = [01;35m[K"/camera/depth/points"[m[K;
+      |                            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_clustering_server.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/xinyao/SAR_ROS/catkin_ws/src/irlab_point_cloud_filtering/src/point_cloud_clustering_server.cpp:186:28:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+  186 |   char* pointcloud_topic = [01;35m[K"/extract_plane_indices/output"[m[K;
+      |                            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 90%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/irlab_point_cloud_filtering/lib/irlab_point_cloud_filtering/point_cloud_filtering_server[0m
+[100%] [32m[1mLinking CXX executable /home/xinyao/SAR_ROS/catkin_ws/devel/.private/irlab_point_cloud_filtering/lib/irlab_point_cloud_filtering/point_cloud_clustering_server[0m
+[100%] Built target point_cloud_filtering_server
+[100%] Built target point_cloud_clustering_server

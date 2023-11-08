@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/interbotix_xsarm_moveit/share/interbotix_xsarm_moveit/cmake/interbotix_xsarm_moveitConfig-version.cmake

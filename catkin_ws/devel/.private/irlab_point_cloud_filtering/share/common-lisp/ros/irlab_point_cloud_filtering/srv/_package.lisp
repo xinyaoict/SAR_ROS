@@ -1,0 +1,10 @@
+(cl:defpackage irlab_point_cloud_filtering-srv
+  (:use )
+  (:export
+   "POINTCLOUDFILTERING"
+   "<POINTCLOUDFILTERING-REQUEST>"
+   "POINTCLOUDFILTERING-REQUEST"
+   "<POINTCLOUDFILTERING-RESPONSE>"
+   "POINTCLOUDFILTERING-RESPONSE"
+  ))
+

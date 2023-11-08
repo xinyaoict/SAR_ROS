@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/summit_xls_ur5_bringup/share/summit_xls_ur5_bringup/cmake/summit_xls_ur5_bringupConfig.cmake

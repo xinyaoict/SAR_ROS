@@ -1,0 +1,5 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/robotnik_elevator_component/cmake/robotnik_elevator_componentConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/robotnik_elevator_component/cmake/robotnik_elevator_componentConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/librobotnik_elevator_component.so
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/robotnik_elevator_component.pc
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/robotnik_elevator_component/robotnik_fake_elevator_node

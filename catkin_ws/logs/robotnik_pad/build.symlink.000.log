@@ -1,0 +1,5 @@
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/robotnik_pad/cmake/robotnik_padConfig.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/share/robotnik_pad/cmake/robotnik_padConfig-version.cmake
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/librobotnik_pad.so
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/pkgconfig/robotnik_pad.pc
+Symlinking /home/xinyao/SAR_ROS/catkin_ws/devel/lib/robotnik_pad/robotnik_pad_node

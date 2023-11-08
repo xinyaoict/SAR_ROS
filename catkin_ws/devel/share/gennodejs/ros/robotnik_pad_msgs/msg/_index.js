@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/robotnik_pad_msgs/share/gennodejs/ros/robotnik_pad_msgs/msg/_index.js

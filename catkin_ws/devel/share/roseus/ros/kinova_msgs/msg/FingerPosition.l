@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/FingerPosition.l

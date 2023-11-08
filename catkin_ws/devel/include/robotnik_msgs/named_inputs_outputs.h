@@ -1,0 +1,1 @@
+/home/xinyao/SAR_ROS/catkin_ws/devel/.private/robotnik_msgs/include/robotnik_msgs/named_inputs_outputs.h
