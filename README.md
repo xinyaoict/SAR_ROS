@@ -124,7 +124,7 @@ rosrun map_server map_saver -f ~/map
 
 ## 5. Add Object and People
 
-Now we want to add more objects and people in the simulation environment to build a more exciting world. This can be easily done in Gazebo. I added predefined objects and people like ‘Coke Can’, ‘Cafe table’, ‘FIRST 2015 trash can’ ‘Standing person’, ‘Walking person’, ‘Robonaut’, ‘Table Marble’
+Now we want to add more objects and people in the simulation environment to build a more exciting world. This can be easily done in Gazebo. I added predefined objects and people using the pre-defined models from https://github.com/osrf/gazebo_models
 
 ## 6. Real-Time Object and People Detection
 I use YOLO for object and people detection. There is a popular ROS package can be downloaded from https://github.com/leggedrobotics/darknet_ros
