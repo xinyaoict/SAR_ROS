@@ -1,5 +1,6 @@
-# SAR_ROS
+# Robotic Search and Rescue with a Simulated Ground Robot
 
+![teaser](https://github.com/xinyaoict/SAR_ROS/blob/main/fig.png)
 
 ## 1. Deploy summit_xl_sim 
 https://github.com/RobotnikAutomation/summit_xl_sim#summit_xl_sim
