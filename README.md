@@ -120,7 +120,7 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 Then we can build a map by teleoperating the robot. When the map is created successfully, we can save the map by:
 
 ```bash
-rosrun map_server map_saver -f ~/map
+rosrun map_server map_saver map:=/summit_xl/map -f ~/map
 ```
 
 ## 5. Add Object and People
@@ -169,7 +169,7 @@ wget http://pjreddie.com/media/files/yolov3.weights
 
 #### 6.3 Update the name of subscribed topic:
 ```bash
-vim ~/catkin_ws/src/darknet_ros/config/ros.yaml
+vim ~/catkin_ws/src/darknet_ros/darknet_ros/config/ros.yaml
 ```
 Change the subscribed topic from /camera/rgb/image_raw to /summit_xl/arm_camera/color/image_raw 
 
